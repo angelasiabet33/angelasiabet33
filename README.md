@@ -2,7 +2,7 @@
 - 👀 I’m interested in Setting up a XML / Json format by using UTF-8 encoding
 - 🌱 I’m currently learning start from zero ... 
 - 💞️ I’m looking to someone to guide me ...
-- 📫 How to reach me angel@asiabet33.com , WhatsApp +601153390281
+- WhatsApp +601153390281
 
 <!---
 angelasiabet33/angelasiabet33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
